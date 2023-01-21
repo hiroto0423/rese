@@ -1,0 +1,5 @@
+// macOS用の設定
+.DS_Store
+
+// mysqlのデータをignore
+docker/mysql/data
